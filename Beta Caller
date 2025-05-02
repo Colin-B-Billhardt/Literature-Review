@@ -8,3 +8,8 @@ Key points from abstract:
 -80.08% accuracy predicting which limb to move next
 -When predicting location of next hold, achieves rounding-box error of 6.79%
 
+
+Interesting papers it references: 
+-Computer Vision Based Indoor Rock Climbing Analysis (EKAIREB et. al)
+-Climb-o-Vision: A Computer Vision Driven Sensory Substitution Device for Rock Climbing (Richardson et. al) University of Bath!
+
