@@ -1,0 +1,10 @@
+End-to-End Move Prediction System for Indoor Rock Climbing: Beta Caller
+
+Key points from abstract: 
+-For visually impaired people
+-Provides real-time, audible instructions containing a prediction for the climbers next move while they are actively climbing a rock wall 
+-NN used to predict where the climber should go next, based on info provided by CV models
+-Predicted move is translated into a verbal messagage guiding the climber to the next hold and transmitted via wireless headphones using a text to speech model
+-80.08% accuracy predicting which limb to move next
+-When predicting location of next hold, achieves rounding-box error of 6.79%
+
